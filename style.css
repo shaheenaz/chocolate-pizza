@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ header img {
+  float: left;}
+header nav {
+    display: inline-block;
+    position: absolute;
+    top: 3%;
+    right: 0%;
+}
+header nav img {
+    float: right;
+    ;
+    top: 3%;
+    right: 0%;
+    padding: 2px;
+ }
+ #pic{
+    position: relative;
+    text-align: center;
+    color: rgb(15, 14, 14);
+ } 
+ #form{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 20px;
+ }
+ #icon{
+     width: 30%;
+     height: 2px;
+     display: inline-block;
+ }
+ #icon h3 span{
+    font-size: 35px;
+    font-weight: bold;
+ }
+ #section1 img{
+     display: block;
+     margin-left: 82%;}
+     /* margin-right: auto; */
+#section1 {
+    margin-left: 14%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#section1 p{
+    color: darkgray;
+}
+ #section2 img{
+     display: block;
+     margin-left: auto;
+     margin-right: auto ;
+     clear: both;
+     padding: 1%;
+ } 
+ #section2 p{
+     text-align: justify;
+     display: block;
+     margin-left: 12%;
+     margin-right: 12% ;
+     clear: both;
+     padding: 1%;
+     ;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ } #firstbox{
+     float: left;
+     text-align: justify;
+     width: 50%;
+     padding-right: 50px;
+     font-family: monospace;
+ }
+ #secondbox{
+     float: right;
+     text-align: justify;
+     width: 50%;
+     padding-left:70px;
+     font-family: monospace;
+ }
+ #section3 img {
+    float: left;
+    display:inline-block ;
+    margin-left: 12%;
+    margin-right: 3% ;
+    clear: both;
+    padding: 1%; }
+    #section3 h4{
+        color: rgb(170, 130, 130);
+    }
+    #section3 button{
+        float:right;
+        margin-right: 15%;
+         /* margin-bottom: 15%  */
+        ;  background-color: #A54433; /* Green */
+        border: none;
+        color: rgb(253, 249, 249);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+      footer img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        clear: both;
+      }
+      footer p{
+            text-align: center; 
+          margin-left: auto;
+          margin-right: auto;
+          color: rgb(138, 135, 122);
+          font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      }
