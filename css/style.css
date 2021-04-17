@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+}
+
+
+header{
+ padding:2%;       
+}
+
+header nav img{
+    float: left;
+    clear: both;
+    display: block;
+    margin-left: 22%;
+}
+
+header nav span{
+    font-family: 'Pacifico', cursive;
+    font-size: x-large;
+    color:black ;
+    font-style: oblique;
+}
+
+header nav p{
+    margin-left: 25.5%;
+    font-size: small;
+    color:darkgray ;
+}
+
+nav ul{
+     position: absolute;
+     clear: both;
+     top:3%;
+     right:23%;
+     top:6%;
+    }
+     
+
+
+ nav ul li{
+    display: inline-block;
+    padding-top: 5px;
+}
+
+ nav ul li img{
+    text-decoration: none;
+}
+
+
+
+hr{
+   display: block;
+   background-image: url(https://raw.githubusercontent.com/LTUC/amman-201d22/main/class-10/lab-a/lab-assets/hr-img.png);
+   border: 0px; 
+   height: 15px;
+   width: 57%;
+   margin-top: 2%;
+}
+
+
+#one{
+    margin-left: 65.5%;
+    clear: both;
+    display: block;
+    color: darkgray;
+}
+
+
+#sectionOne {
+margin-left:23%;
+display: block;
+color: darkgray;
+}
+
+#sectionOne span{
+    font-size:xx-large;
+    font-weight: 300px;
+    color: black;
+    font-weight: bold ;   
+}
+
+#sectionTwo img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    clear: both;    
+}
+
+#sectionThree {
+    display: block;
+     margin-left:auto;
+     margin-right: auto;
+     clear: both;
+     text-align:center;
+     font-size:larger;
+     padding: 2%;
+     color:dimgray;
+}
+#sectionFour{
+    position: relative;
+    text-align: center;
+}
+
+#form{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 20px;
+ }
+
+ #firstbox{
+position: absolute;
+  top: 50px;
+  right: 63%;
+  text-align: justify;
+}
+
+#secondbox{
+ position: absolute;
+  top: 50px;
+  right: 30%;
+  text-align: justify;
+}
+
+#secondbox div{
+    text-decoration:line-through;
+}
+
+#sectionFive{
+    position: relative;
+    padding: 20px
+}
+
+#sectionFive img{
+    margin-left: 22%;
+    clear: both;
+    float: left;
+    padding-right: 20px;  
+    display: block;
+    
+}
+
+#sectionFive span{
+    font-size:x-large;
+    color: slategrey;
+    position: absolute;
+    
+}
+
+#sectionFive p{
+    font-size:large;
+    color: slategrey;
+    position: absolute;
+    margin-left: 27.5%;
+    
+}
+
+ button{
+    text-align: center;
+    padding: 15px 33px;
+    color:whitesmoke;
+    background-color: brown;
+    border: none;
+    clear: both;
+    margin-left: 41.3% ;    
+    opacity: 0.6;
+    cursor: not-allowed;
+ }
+
+ footer{
+     padding:80px;
+     clear: both;
+ }
+
+ footer hr {     
+    background: url('https://github.com/LTUC/amman-201d22/blob/main/class-10/lab-a/lab-assets/small-logo.png?raw=true') no-repeat top center;
+    background-size: contain;
+    display: block;
+    height: 30px;
+    border: 0;
+    width: 50%;
+    position: relative; 
+    }
+
+ 
+ footer p{
+     text-align: center;
+     color: darkgrey;
+ }
