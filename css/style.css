@@ -164,6 +164,8 @@ position: absolute;
     border: none;
     clear: both;
     margin-left: 41.3% ;    
+    opacity: 0.6;
+    cursor: not-allowed;
  }
 
  footer{
