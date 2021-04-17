@@ -165,7 +165,11 @@ position: absolute;
     clear: both;
     margin-left: 41.3% ;    
     opacity: 0.6;
+<<<<<<< HEAD
   cursor: not-allowed;
+=======
+    cursor: not-allowed;
+>>>>>>> 0af61a05331c7bff73c3a72f0b01317ce10c96e9
  }
 
  footer{
